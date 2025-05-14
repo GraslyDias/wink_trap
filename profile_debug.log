@@ -2587,3 +2587,55 @@
 [2025-05-14 21:36:52] Authenticated user: {"id":2,"name":"Imesh Dinil","email":"graslydias@gmail.com"}
 [2025-05-14 21:36:52] Database connection closed
 [2025-05-14 21:36:52] Request completed
+[2025-05-14 21:52:02] Request started with method: GET
+[2025-05-14 21:52:02] Request URI: /wink_trap/api/users/profile.php
+[2025-05-14 21:52:02] Session config - Current session status: 1
+[2025-05-14 21:52:02] Session config - Setting cookie params (PHP 7.3+): {"lifetime":2592000,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"Lax"}
+[2025-05-14 21:52:02] Session config - Starting new session
+[2025-05-14 21:52:02] Session config - Session start result: success
+[2025-05-14 21:52:02] Session config - New session ID: 1ii4r8f9275eq6kq54ejc9c1s8
+[2025-05-14 21:52:02] POST data: []
+[2025-05-14 21:52:02] FILES data: []
+[2025-05-14 21:52:02] Headers: {"Host":"localhost","Connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36","sec-ch-ua":"\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"","Content-Type":"application\/json","sec-ch-ua-mobile":"?0","Accept":"*\/*","Origin":"http:\/\/localhost:3000","Sec-Fetch-Site":"same-site","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty","Referer":"http:\/\/localhost:3000\/","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9,si;q=0.8","Cookie":"PHPSESSID=3432l1qll3e8d0bgk24bs10apj; wink_trap_session=1ii4r8f9275eq6kq54ejc9c1s8; remember_token=03f907525e0df03e93c4f14378d1a9c0bbf3ad8ec4a0fbab72b01764368c3cb2"}
+[2025-05-14 21:52:02] Authenticated user: {"id":2,"name":"Imesh Dinil","email":"graslydias@gmail.com"}
+[2025-05-14 21:52:02] Database connection closed
+[2025-05-14 21:52:02] Request completed
+[2025-05-14 21:52:02] Request started with method: GET
+[2025-05-14 21:52:02] Request URI: /wink_trap/api/users/profile.php
+[2025-05-14 21:52:02] Session config - Current session status: 1
+[2025-05-14 21:52:02] Session config - Setting cookie params (PHP 7.3+): {"lifetime":2592000,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"Lax"}
+[2025-05-14 21:52:02] Session config - Starting new session
+[2025-05-14 21:52:02] Session config - Session start result: success
+[2025-05-14 21:52:02] Session config - New session ID: 1ii4r8f9275eq6kq54ejc9c1s8
+[2025-05-14 21:52:02] POST data: []
+[2025-05-14 21:52:02] FILES data: []
+[2025-05-14 21:52:02] Headers: {"Host":"localhost","Connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36","sec-ch-ua":"\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"","Content-Type":"application\/json","sec-ch-ua-mobile":"?0","Accept":"*\/*","Origin":"http:\/\/localhost:3000","Sec-Fetch-Site":"same-site","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty","Referer":"http:\/\/localhost:3000\/","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9,si;q=0.8","Cookie":"PHPSESSID=3432l1qll3e8d0bgk24bs10apj; wink_trap_session=1ii4r8f9275eq6kq54ejc9c1s8; remember_token=03f907525e0df03e93c4f14378d1a9c0bbf3ad8ec4a0fbab72b01764368c3cb2"}
+[2025-05-14 21:52:02] Authenticated user: {"id":2,"name":"Imesh Dinil","email":"graslydias@gmail.com"}
+[2025-05-14 21:52:02] Database connection closed
+[2025-05-14 21:52:02] Request completed
+[2025-05-14 21:52:58] Request started with method: GET
+[2025-05-14 21:52:58] Request URI: /wink_trap/api/users/profile.php
+[2025-05-14 21:52:58] Session config - Current session status: 1
+[2025-05-14 21:52:58] Session config - Setting cookie params (PHP 7.3+): {"lifetime":2592000,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"Lax"}
+[2025-05-14 21:52:58] Session config - Starting new session
+[2025-05-14 21:52:58] Session config - Session start result: success
+[2025-05-14 21:52:58] Session config - New session ID: oqqasdrt9fssja3t7i9v2omp95
+[2025-05-14 21:52:58] POST data: []
+[2025-05-14 21:52:58] FILES data: []
+[2025-05-14 21:52:58] Headers: {"Host":"localhost","Connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36","sec-ch-ua":"\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"","Content-Type":"application\/json","sec-ch-ua-mobile":"?0","Accept":"*\/*","Origin":"http:\/\/localhost:3000","Sec-Fetch-Site":"same-site","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty","Referer":"http:\/\/localhost:3000\/","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9,si;q=0.8","Cookie":"PHPSESSID=3432l1qll3e8d0bgk24bs10apj; wink_trap_session=oqqasdrt9fssja3t7i9v2omp95; remember_token=a716e87582a74f05a8eb7568b4cf9c6660ff3e0940188b797833c8dcf11664bb"}
+[2025-05-14 21:52:58] Authenticated user: {"id":2,"name":"Imesh Dinil","email":"graslydias@gmail.com"}
+[2025-05-14 21:52:58] Database connection closed
+[2025-05-14 21:52:58] Request completed
+[2025-05-14 21:52:58] Request started with method: GET
+[2025-05-14 21:52:58] Request URI: /wink_trap/api/users/profile.php
+[2025-05-14 21:52:58] Session config - Current session status: 1
+[2025-05-14 21:52:58] Session config - Setting cookie params (PHP 7.3+): {"lifetime":2592000,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"Lax"}
+[2025-05-14 21:52:58] Session config - Starting new session
+[2025-05-14 21:52:58] Session config - Session start result: success
+[2025-05-14 21:52:58] Session config - New session ID: oqqasdrt9fssja3t7i9v2omp95
+[2025-05-14 21:52:58] POST data: []
+[2025-05-14 21:52:58] FILES data: []
+[2025-05-14 21:52:58] Headers: {"Host":"localhost","Connection":"keep-alive","sec-ch-ua-platform":"\"Windows\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36","sec-ch-ua":"\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"","Content-Type":"application\/json","sec-ch-ua-mobile":"?0","Accept":"*\/*","Origin":"http:\/\/localhost:3000","Sec-Fetch-Site":"same-site","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty","Referer":"http:\/\/localhost:3000\/","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9,si;q=0.8","Cookie":"PHPSESSID=3432l1qll3e8d0bgk24bs10apj; wink_trap_session=oqqasdrt9fssja3t7i9v2omp95; remember_token=a716e87582a74f05a8eb7568b4cf9c6660ff3e0940188b797833c8dcf11664bb"}
+[2025-05-14 21:52:58] Authenticated user: {"id":2,"name":"Imesh Dinil","email":"graslydias@gmail.com"}
+[2025-05-14 21:52:58] Database connection closed
+[2025-05-14 21:52:58] Request completed

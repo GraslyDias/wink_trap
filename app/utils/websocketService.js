@@ -38,7 +38,7 @@ export const initializeSocket = (currentUserId, currentWallId) => {
   wallId = currentWallId;
   
   const wsProtocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
-  const wsHost = process.env.NEXT_PUBLIC_WS_HOST || window.location.host;
+  const wsHost = process.env.NEXT_PUBLIC_WS_HOST || 'akf.digital';
   const wsURL = `${wsProtocol}//${wsHost}?user_id=${userId}&wall_id=${wallId}`;
   
   console.log(`Initializing WebSocket connection to ${wsURL}`);

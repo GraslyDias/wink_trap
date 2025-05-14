@@ -3,13 +3,10 @@
  * Real API integration with backend services
  */
 
-// Base API URL - update this to your production URL when deploying
-// Use relative URL for same-origin requests to avoid CORS issues
-const API_BASE_URL = typeof window !== 'undefined' 
-  ? (window.location.hostname === 'localhost' 
-    ? 'http://localhost/wink_trap/api'
-    : '/api')
-  : '/api';
+// Base API URL - use environment variable if available or fallback to hard-coded URL
+const API_BASE_URL = typeof window !== 'undefined' && process.env.NEXT_PUBLIC_API_URL 
+  ? process.env.NEXT_PUBLIC_API_URL 
+  : 'https://akf.digital/wink_trap/api';
 
 console.log('API_BASE_URL:', API_BASE_URL);
 
