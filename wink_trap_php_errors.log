@@ -1,0 +1,128 @@
+[14-May-2025 14:28:16 Europe/Berlin] CORS config loaded
+[14-May-2025 14:28:16 Europe/Berlin] Request method: POST
+[14-May-2025 14:28:16 Europe/Berlin] Origin header: http://localhost:3000
+[14-May-2025 14:28:16 Europe/Berlin] Setting session cookie params (PHP 7.3+): {"lifetime":86400,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"None"}
+[14-May-2025 14:28:16 Europe/Berlin] Login API called. Method: POST
+[14-May-2025 14:28:16 Europe/Berlin] Request headers: {"Host":"localhost","Connection":"keep-alive","Sec-Ch-Ua-Platform":"\"Windows\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36","Sec-Ch-Ua":"\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"","Sec-Ch-Ua-Mobile":"?0","Accept":"*\/*","Origin":"http:\/\/localhost:3000","Sec-Fetch-Site":"same-site","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty","Referer":"http:\/\/localhost:3000\/","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9,si;q=0.8","Cookie":"PHPSESSID=e8s44jr3u14m7nboa06j7ndr10; wink_trap_session=5ifl0ke18enejeh77i5gms6uiv"}
+[14-May-2025 14:28:16 Europe/Berlin] Raw input data: {"email":"graslydias@gmail.com","password":"Imesh2001@"}
+[14-May-2025 14:28:16 Europe/Berlin] Received login data: {"email":"graslydias@gmail.com","password":"Imesh2001@"}
+[14-May-2025 14:28:16 Europe/Berlin] Login successful, setting session data for user ID: 2
+[14-May-2025 14:28:16 Europe/Berlin] Session ID before setting data: 2n7fcicbbutelm6o5n0mi2hns7
+[14-May-2025 14:28:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\wink_trap\api\auth\login.php:115
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\wink_trap\api\auth\login.php on line 115
+[14-May-2025 14:28:17 Europe/Berlin] CORS config loaded
+[14-May-2025 14:28:17 Europe/Berlin] Request method: POST
+[14-May-2025 14:28:17 Europe/Berlin] Origin header: http://localhost:3000
+[14-May-2025 14:28:17 Europe/Berlin] Setting session cookie params (PHP 7.3+): {"lifetime":86400,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"None"}
+[14-May-2025 14:28:17 Europe/Berlin] Login API called. Method: POST
+[14-May-2025 14:28:17 Europe/Berlin] Request headers: {"Host":"localhost","Connection":"keep-alive","Sec-Ch-Ua-Platform":"\"Windows\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36","Sec-Ch-Ua":"\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"","Sec-Ch-Ua-Mobile":"?0","Accept":"*\/*","Origin":"http:\/\/localhost:3000","Sec-Fetch-Site":"same-site","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty","Referer":"http:\/\/localhost:3000\/","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9,si;q=0.8","Cookie":"PHPSESSID=e8s44jr3u14m7nboa06j7ndr10; wink_trap_session=2n7fcicbbutelm6o5n0mi2hns7"}
+[14-May-2025 14:28:17 Europe/Berlin] Raw input data: {"email":"graslydias@gmail.com","password":"Imesh2001@"}
+[14-May-2025 14:28:17 Europe/Berlin] Received login data: {"email":"graslydias@gmail.com","password":"Imesh2001@"}
+[14-May-2025 14:28:17 Europe/Berlin] Login successful, setting session data for user ID: 2
+[14-May-2025 14:28:17 Europe/Berlin] Session ID before setting data: 1st08642vs80g6gd4m48u7ipqt
+[14-May-2025 14:28:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\wink_trap\api\auth\login.php:115
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\wink_trap\api\auth\login.php on line 115
+[14-May-2025 14:28:19 Europe/Berlin] CORS config loaded
+[14-May-2025 14:28:19 Europe/Berlin] Request method: GET
+[14-May-2025 14:28:19 Europe/Berlin] Origin header: http://localhost:3000
+[14-May-2025 14:28:19 Europe/Berlin] Setting session cookie params (PHP 7.3+): {"lifetime":86400,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"None"}
+[14-May-2025 14:28:19 Europe/Berlin] Verify.php - Session ID: 1st08642vs80g6gd4m48u7ipqt
+[14-May-2025 14:28:19 Europe/Berlin] Verify.php - Session data: {"user_id":2,"user_name":"imesh dinil","user_email":"graslydias@gmail.com","logged_in":true,"login_time":1747225697,"last_regeneration":1747225697}
+[14-May-2025 14:28:19 Europe/Berlin] Verify.php - Request cookies: {"PHPSESSID":"e8s44jr3u14m7nboa06j7ndr10","wink_trap_session":"1st08642vs80g6gd4m48u7ipqt"}
+[14-May-2025 14:28:19 Europe/Berlin] Verify.php - User verified successfully: 2 - graslydias@gmail.com
+[14-May-2025 14:28:19 Europe/Berlin] CORS config loaded
+[14-May-2025 14:28:19 Europe/Berlin] Request method: GET
+[14-May-2025 14:28:19 Europe/Berlin] Origin header: http://localhost:3000
+[14-May-2025 14:28:19 Europe/Berlin] Setting session cookie params (PHP 7.3+): {"lifetime":86400,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"None"}
+[14-May-2025 14:28:19 Europe/Berlin] Verify.php - Session ID: 1st08642vs80g6gd4m48u7ipqt
+[14-May-2025 14:28:19 Europe/Berlin] Verify.php - Session data: {"user_id":2,"user_name":"imesh dinil","user_email":"graslydias@gmail.com","logged_in":true,"login_time":1747225697,"last_regeneration":1747225697}
+[14-May-2025 14:28:19 Europe/Berlin] Verify.php - Request cookies: {"PHPSESSID":"e8s44jr3u14m7nboa06j7ndr10","wink_trap_session":"1st08642vs80g6gd4m48u7ipqt"}
+[14-May-2025 14:28:19 Europe/Berlin] Verify.php - User verified successfully: 2 - graslydias@gmail.com
+[14-May-2025 14:28:29 Europe/Berlin] CORS config loaded
+[14-May-2025 14:28:29 Europe/Berlin] Request method: POST
+[14-May-2025 14:28:29 Europe/Berlin] Origin header: http://localhost:3000
+[14-May-2025 14:28:29 Europe/Berlin] Setting session cookie params (PHP 7.3+): {"lifetime":86400,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"None"}
+[14-May-2025 14:28:29 Europe/Berlin] Login API called. Method: POST
+[14-May-2025 14:28:29 Europe/Berlin] Request headers: {"Host":"localhost","Connection":"keep-alive","Sec-Ch-Ua-Platform":"\"Windows\"","User-Agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Safari\/537.36","Sec-Ch-Ua":"\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"","Sec-Ch-Ua-Mobile":"?0","Accept":"*\/*","Origin":"http:\/\/localhost:3000","Sec-Fetch-Site":"same-site","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty","Referer":"http:\/\/localhost:3000\/","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9,si;q=0.8","Cookie":"PHPSESSID=e8s44jr3u14m7nboa06j7ndr10; wink_trap_session=1st08642vs80g6gd4m48u7ipqt"}
+[14-May-2025 14:28:29 Europe/Berlin] Raw input data: {"email":"graslydias@gmail.com","password":"Imesh2001@"}
+[14-May-2025 14:28:29 Europe/Berlin] Received login data: {"email":"graslydias@gmail.com","password":"Imesh2001@"}
+[14-May-2025 14:28:29 Europe/Berlin] Login successful, setting session data for user ID: 2
+[14-May-2025 14:28:29 Europe/Berlin] Session ID before setting data: 3htftretst5vc9ckhm1314pg67
+[14-May-2025 14:28:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\wink_trap\api\auth\login.php:115
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\wink_trap\api\auth\login.php on line 115
+[14-May-2025 14:33:14 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:33:14 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:33:14 Europe/Berlin] Profile API called with method: GET
+[14-May-2025 14:33:14 Europe/Berlin] POST data: []
+[14-May-2025 14:33:14 Europe/Berlin] FILES data: []
+[14-May-2025 14:33:14 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:33:14 Europe/Berlin] Authenticated user: {"id":2,"name":"imesh dinil","email":"graslydias@gmail.com"}
+[14-May-2025 14:33:14 Europe/Berlin] Profile API called with method: GET
+[14-May-2025 14:33:14 Europe/Berlin] POST data: []
+[14-May-2025 14:33:14 Europe/Berlin] FILES data: []
+[14-May-2025 14:33:14 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:33:14 Europe/Berlin] Authenticated user: {"id":2,"name":"imesh dinil","email":"graslydias@gmail.com"}
+[14-May-2025 14:34:04 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:34:04 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:34:13 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:34:17 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:34:17 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:35:04 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:35:04 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:35:27 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:35:27 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:35:27 Europe/Berlin] Profile API called with method: GET
+[14-May-2025 14:35:27 Europe/Berlin] POST data: []
+[14-May-2025 14:35:27 Europe/Berlin] FILES data: []
+[14-May-2025 14:35:27 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:35:27 Europe/Berlin] Authenticated user: {"id":2,"name":"imesh dinil","email":"graslydias@gmail.com"}
+[14-May-2025 14:35:27 Europe/Berlin] Profile API called with method: GET
+[14-May-2025 14:35:27 Europe/Berlin] POST data: []
+[14-May-2025 14:35:27 Europe/Berlin] FILES data: []
+[14-May-2025 14:35:27 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:35:27 Europe/Berlin] Authenticated user: {"id":2,"name":"imesh dinil","email":"graslydias@gmail.com"}
+[14-May-2025 14:43:45 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:43:45 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:43:49 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:43:49 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:43:49 Europe/Berlin] Profile API called with method: GET
+[14-May-2025 14:43:49 Europe/Berlin] POST data: []
+[14-May-2025 14:43:49 Europe/Berlin] FILES data: []
+[14-May-2025 14:43:49 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:43:49 Europe/Berlin] Authenticated user: {"id":2,"name":"imesh dinil","email":"graslydias@gmail.com"}
+[14-May-2025 14:43:49 Europe/Berlin] Profile API called with method: GET
+[14-May-2025 14:43:49 Europe/Berlin] POST data: []
+[14-May-2025 14:43:49 Europe/Berlin] FILES data: []
+[14-May-2025 14:43:49 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:43:49 Europe/Berlin] Authenticated user: {"id":2,"name":"imesh dinil","email":"graslydias@gmail.com"}
+[14-May-2025 14:44:26 Europe/Berlin] Verify.php - Session ID: ra74sl82r8f50s5udhtvmek9gb
+[14-May-2025 14:44:26 Europe/Berlin] Verify.php - Session data: {"user_id":2,"user_name":"imesh dinil","user_email":"graslydias@gmail.com","logged_in":true,"login_time":1747225993,"last_regeneration":1747225993}
+[14-May-2025 14:44:26 Europe/Berlin] Verify.php - Request cookies: {"wink_trap_session":"ra74sl82r8f50s5udhtvmek9gb","PHPSESSID":"60ge1j6j894ii05qemjprosabe"}
+[14-May-2025 14:44:26 Europe/Berlin] Verify.php - User verified successfully: 2 - graslydias@gmail.com
+[14-May-2025 14:44:26 Europe/Berlin] Verify.php - Session ID: ra74sl82r8f50s5udhtvmek9gb
+[14-May-2025 14:44:26 Europe/Berlin] Verify.php - Session data: {"user_id":2,"user_name":"imesh dinil","user_email":"graslydias@gmail.com","logged_in":true,"login_time":1747225993,"last_regeneration":1747225993}
+[14-May-2025 14:44:26 Europe/Berlin] Verify.php - Request cookies: {"wink_trap_session":"ra74sl82r8f50s5udhtvmek9gb","PHPSESSID":"60ge1j6j894ii05qemjprosabe"}
+[14-May-2025 14:44:26 Europe/Berlin] Verify.php - User verified successfully: 2 - graslydias@gmail.com
+[14-May-2025 14:44:38 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:44:38 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:44:38 Europe/Berlin] Profile API called with method: GET
+[14-May-2025 14:44:38 Europe/Berlin] POST data: []
+[14-May-2025 14:44:38 Europe/Berlin] FILES data: []
+[14-May-2025 14:44:38 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:44:38 Europe/Berlin] Authenticated user: {"id":2,"name":"imesh dinil","email":"graslydias@gmail.com"}
+[14-May-2025 14:44:38 Europe/Berlin] Profile API called with method: GET
+[14-May-2025 14:44:38 Europe/Berlin] POST data: []
+[14-May-2025 14:44:38 Europe/Berlin] FILES data: []
+[14-May-2025 14:44:38 Europe/Berlin] User authenticated via PHP session
+[14-May-2025 14:44:38 Europe/Berlin] Authenticated user: {"id":2,"name":"imesh dinil","email":"graslydias@gmail.com"}
+[14-May-2025 14:51:33 Europe/Berlin] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in C:\xampp\htdocs\wink_trap\api\walls\create.php:308) in C:\xampp\htdocs\wink_trap\api\config\database.php on line 36
+[14-May-2025 14:51:43 Europe/Berlin] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in C:\xampp\htdocs\wink_trap\api\walls\create.php:308) in C:\xampp\htdocs\wink_trap\api\config\database.php on line 36
+[14-May-2025 15:42:24 Europe/Berlin] [CORS] Request method: POST, Origin: http://localhost:3000
+[14-May-2025 15:46:55 Europe/Berlin] [CORS] Request method: POST, Origin: http://localhost:3000
+[14-May-2025 15:47:08 Europe/Berlin] [CORS] Request method: POST, Origin: http://localhost:3000

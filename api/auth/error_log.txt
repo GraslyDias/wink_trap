@@ -1,0 +1,1 @@
+[14-May-2025 11:42:21 Europe/Berlin] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in C:\xampp\htdocs\wink_trap\api\auth\register.php:25) in C:\xampp\htdocs\wink_trap\api\config\database.php on line 74

@@ -1,0 +1,223 @@
+[2025-05-14 16:20:42] Session config - Current session status: 1
+[2025-05-14 16:20:42] Session config - Setting cookie params (PHP 7.3+): {"lifetime":2592000,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"Lax"}
+[2025-05-14 16:20:42] Session config - Starting new session
+[2025-05-14 16:20:42] Session config - Session start result: success
+[2025-05-14 16:20:42] Session config - New session ID: u372o3mnpn3mtvadn18ed9ra5i
+[2025-05-14 16:20:42] Starting user authentication check
+[2025-05-14 16:20:42] Authentication successful. User ID: 2, Email: graslydias@gmail.com
+[2025-05-14 16:20:42] Getting database connection
+[2025-05-14 16:20:42] Database connection successful
+[2025-05-14 16:20:42] Raw Content-Type: multipart/form-data; boundary=----WebKitFormBoundary0JOvRF6lqGS0Ti5C
+[2025-05-14 16:20:42] Processing as multipart/form-data
+[2025-05-14 16:20:42] POST data after processing: Array
+(
+    [wall_id] => wall5
+    [name] => kkkk
+)
+
+[2025-05-14 16:20:42] Parsed data: Array
+(
+    [wall_id] => wall5
+    [name] => kkkk
+)
+
+[2025-05-14 16:20:42] Sanitized data - Wall ID: wall5, Name: kkkk
+[2025-05-14 16:20:42] Checking if wall exists and if user is the creator
+[2025-05-14 16:20:42] Adding name to update fields: kkkk
+[2025-05-14 16:20:42] Update query: UPDATE walls SET name = ? WHERE wall_id = ?
+[2025-05-14 16:20:42] Param types: ss
+[2025-05-14 16:20:42] Wall updated successfully
+[2025-05-14 16:20:42] Update response sent successfully
+[2025-05-14 16:20:42] Database connection closed
+[2025-05-14 16:21:00] Session config - Current session status: 1
+[2025-05-14 16:21:00] Session config - Setting cookie params (PHP 7.3+): {"lifetime":2592000,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"Lax"}
+[2025-05-14 16:21:00] Session config - Starting new session
+[2025-05-14 16:21:00] Session config - Session start result: success
+[2025-05-14 16:21:00] Session config - New session ID: u372o3mnpn3mtvadn18ed9ra5i
+[2025-05-14 16:21:00] Starting user authentication check
+[2025-05-14 16:21:00] Authentication successful. User ID: 2, Email: graslydias@gmail.com
+[2025-05-14 16:21:00] Getting database connection
+[2025-05-14 16:21:00] Database connection successful
+[2025-05-14 16:21:00] Raw Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryTNc4V4iOiTr9P9gh
+[2025-05-14 16:21:00] Processing as multipart/form-data
+[2025-05-14 16:21:00] POST data after processing: Array
+(
+    [wall_id] => wall2
+    [name] => Night Owlsf
+)
+
+[2025-05-14 16:21:00] Parsed data: Array
+(
+    [wall_id] => wall2
+    [name] => Night Owlsf
+)
+
+[2025-05-14 16:21:00] Sanitized data - Wall ID: wall2, Name: Night Owlsf
+[2025-05-14 16:21:00] Checking if wall exists and if user is the creator
+[2025-05-14 16:21:00] ERROR: User is not the creator of the wall. Wall creator: 1, User: 2
+[2025-05-14 16:40:54] Session config - Current session status: 1
+[2025-05-14 16:40:54] Session config - Setting cookie params (PHP 7.3+): {"lifetime":2592000,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"Lax"}
+[2025-05-14 16:40:54] Session config - Starting new session
+[2025-05-14 16:40:54] Session config - Session start result: success
+[2025-05-14 16:40:54] Session config - New session ID: h7lsv4bupusck4jimj0ug52qan
+[2025-05-14 16:40:54] Starting user authentication check
+[2025-05-14 16:40:54] Authentication successful. User ID: 2, Email: graslydias@gmail.com
+[2025-05-14 16:40:54] Getting database connection
+[2025-05-14 16:40:54] Database connection successful
+[2025-05-14 16:40:54] Raw Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryjU6RDDeXJjXdbN4y
+[2025-05-14 16:40:54] Processing as multipart/form-data
+[2025-05-14 16:40:54] POST data after processing: Array
+(
+    [wall_id] => wall5
+    [name] => hi
+)
+
+[2025-05-14 16:40:54] Parsed data: Array
+(
+    [wall_id] => wall5
+    [name] => hi
+)
+
+[2025-05-14 16:40:54] Sanitized data - Wall ID: wall5, Name: hi
+[2025-05-14 16:40:54] Checking if wall exists and if user is the creator
+[2025-05-14 16:40:54] Adding name to update fields: hi
+[2025-05-14 16:40:54] Update query: UPDATE walls SET name = ? WHERE wall_id = ?
+[2025-05-14 16:40:54] Param types: ss
+[2025-05-14 16:40:54] Wall updated successfully
+[2025-05-14 16:40:54] Update response sent successfully
+[2025-05-14 16:40:54] Database connection closed
+[2025-05-14 16:41:11] Session config - Current session status: 1
+[2025-05-14 16:41:11] Session config - Setting cookie params (PHP 7.3+): {"lifetime":2592000,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"Lax"}
+[2025-05-14 16:41:11] Session config - Starting new session
+[2025-05-14 16:41:11] Session config - Session start result: success
+[2025-05-14 16:41:11] Session config - New session ID: h7lsv4bupusck4jimj0ug52qan
+[2025-05-14 16:41:11] Starting user authentication check
+[2025-05-14 16:41:11] Authentication successful. User ID: 2, Email: graslydias@gmail.com
+[2025-05-14 16:41:11] Getting database connection
+[2025-05-14 16:41:12] Database connection successful
+[2025-05-14 16:41:12] Raw Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryrEDxhJKx1jA5AJPY
+[2025-05-14 16:41:12] Processing as multipart/form-data
+[2025-05-14 16:41:12] POST data after processing: Array
+(
+    [wall_id] => wall5
+    [name] => hi
+)
+
+[2025-05-14 16:41:12] Parsed data: Array
+(
+    [wall_id] => wall5
+    [name] => hi
+)
+
+[2025-05-14 16:41:12] Sanitized data - Wall ID: wall5, Name: hi
+[2025-05-14 16:41:12] Checking if wall exists and if user is the creator
+[2025-05-14 16:41:12] Adding name to update fields: hi
+[2025-05-14 16:41:12] Image file received: piclumen-1747195772997.png
+[2025-05-14 16:41:12] Upload directory: C:\xampp\htdocs\wink_trap\api\walls/../uploads/walls/
+[2025-05-14 16:41:12] Upload directory is writable
+[2025-05-14 16:41:12] Image upload details: Name=piclumen-1747195772997.png, Type=image/png, Size=1784344
+[2025-05-14 16:41:12] Target file path: C:\xampp\htdocs\wink_trap\api\walls/../uploads/walls/wall_1747233672_6824ab8801643.png
+[2025-05-14 16:41:12] Attempting to move uploaded file to: C:\xampp\htdocs\wink_trap\api\walls/../uploads/walls/wall_1747233672_6824ab8801643.png
+[2025-05-14 16:41:12] File uploaded successfully to: C:\xampp\htdocs\wink_trap\api\walls/../uploads/walls/wall_1747233672_6824ab8801643.png
+[2025-05-14 16:41:12] Image URL set to: http://localhost/wink_trap/api/uploads/walls/wall_1747233672_6824ab8801643.png
+[2025-05-14 16:41:12] Update query: UPDATE walls SET name = ?, image_url = ? WHERE wall_id = ?
+[2025-05-14 16:41:12] Param types: sss
+[2025-05-14 16:41:12] Wall updated successfully
+[2025-05-14 16:41:12] Update response sent successfully
+[2025-05-14 16:41:12] Database connection closed
+[2025-05-14 17:53:12] Session config - Current session status: 1
+[2025-05-14 17:53:12] Session config - Setting cookie params (PHP 7.3+): {"lifetime":2592000,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"Lax"}
+[2025-05-14 17:53:12] Session config - Starting new session
+[2025-05-14 17:53:12] Session config - Session start result: success
+[2025-05-14 17:53:12] Session config - New session ID: lald2q8hoa9tav773md4vl4be2
+[2025-05-14 17:53:12] Starting user authentication check
+[2025-05-14 17:53:12] Authentication successful. User ID: 2, Email: graslydias@gmail.com
+[2025-05-14 17:53:12] Getting database connection
+[2025-05-14 17:53:12] Database connection successful
+[2025-05-14 17:53:12] Raw Content-Type: multipart/form-data; boundary=----WebKitFormBoundarysw0T0qEo63AbcCCg
+[2025-05-14 17:53:12] Processing as multipart/form-data
+[2025-05-14 17:53:12] POST data after processing: Array
+(
+    [wall_id] => wall5
+    [name] => test
+)
+
+[2025-05-14 17:53:12] Parsed data: Array
+(
+    [wall_id] => wall5
+    [name] => test
+)
+
+[2025-05-14 17:53:12] Sanitized data - Wall ID: wall5, Name: test, Description: not provided
+[2025-05-14 17:53:12] Checking if wall exists and if user is the creator
+[2025-05-14 17:53:12] Adding name to update fields: test
+[2025-05-14 17:53:12] Update query: UPDATE walls SET name = ? WHERE wall_id = ?
+[2025-05-14 17:53:12] Param types: ss
+[2025-05-14 17:53:12] Wall updated successfully
+[2025-05-14 17:53:12] Update response sent successfully
+[2025-05-14 17:53:12] Database connection closed
+[2025-05-14 17:55:03] Session config - Current session status: 1
+[2025-05-14 17:55:03] Session config - Setting cookie params (PHP 7.3+): {"lifetime":2592000,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"Lax"}
+[2025-05-14 17:55:03] Session config - Starting new session
+[2025-05-14 17:55:03] Session config - Session start result: success
+[2025-05-14 17:55:03] Session config - New session ID: a663ph9km006smmh574venhrle
+[2025-05-14 17:55:03] Starting user authentication check
+[2025-05-14 17:55:03] Authentication successful. User ID: 2, Email: graslydias@gmail.com
+[2025-05-14 17:55:03] Getting database connection
+[2025-05-14 17:55:03] Database connection successful
+[2025-05-14 17:55:03] Raw Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryaHNADLSCO7HsxLJQ
+[2025-05-14 17:55:03] Processing as multipart/form-data
+[2025-05-14 17:55:03] POST data after processing: Array
+(
+    [wall_id] => wall5
+    [name] => test
+)
+
+[2025-05-14 17:55:03] Parsed data: Array
+(
+    [wall_id] => wall5
+    [name] => test
+)
+
+[2025-05-14 17:55:03] Sanitized data - Wall ID: wall5, Name: test, Description: not provided
+[2025-05-14 17:55:03] Checking if wall exists and if user is the creator
+[2025-05-14 17:55:03] Adding name to update fields: test
+[2025-05-14 17:55:03] Update query: UPDATE walls SET name = ? WHERE wall_id = ?
+[2025-05-14 17:55:03] Param types: ss
+[2025-05-14 17:55:03] Wall updated successfully
+[2025-05-14 17:55:03] Update response sent successfully
+[2025-05-14 17:55:03] Database connection closed
+[2025-05-14 18:00:30] Session config - Current session status: 1
+[2025-05-14 18:00:30] Session config - Setting cookie params (PHP 7.3+): {"lifetime":2592000,"path":"\/","domain":"","secure":false,"httponly":true,"samesite":"Lax"}
+[2025-05-14 18:00:30] Session config - Starting new session
+[2025-05-14 18:00:30] Session config - Session start result: success
+[2025-05-14 18:00:30] Session config - New session ID: a663ph9km006smmh574venhrle
+[2025-05-14 18:00:30] Starting user authentication check
+[2025-05-14 18:00:30] Authentication successful. User ID: 2, Email: graslydias@gmail.com
+[2025-05-14 18:00:30] Getting database connection
+[2025-05-14 18:00:30] Database connection successful
+[2025-05-14 18:00:30] Raw Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryzMFeiaA3u19lOyou
+[2025-05-14 18:00:30] Processing as multipart/form-data
+[2025-05-14 18:00:30] POST data after processing: Array
+(
+    [wall_id] => wall6
+    [name] => test2
+    [description] => this is description
+)
+
+[2025-05-14 18:00:30] Parsed data: Array
+(
+    [wall_id] => wall6
+    [name] => test2
+    [description] => this is description
+)
+
+[2025-05-14 18:00:30] Sanitized data - Wall ID: wall6, Name: test2, Description: this is description
+[2025-05-14 18:00:30] Checking if wall exists and if user is the creator
+[2025-05-14 18:00:30] Adding name to update fields: test2
+[2025-05-14 18:00:30] Adding description to update fields: this is description
+[2025-05-14 18:00:30] Update query: UPDATE walls SET name = ?, description = ? WHERE wall_id = ?
+[2025-05-14 18:00:30] Param types: sss
+[2025-05-14 18:00:30] Wall updated successfully
+[2025-05-14 18:00:30] Update response sent successfully
+[2025-05-14 18:00:30] Database connection closed
